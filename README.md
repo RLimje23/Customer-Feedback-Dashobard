@@ -1,4 +1,4 @@
-# Customer-Feedback-Dashobard
+# Customer-Feedback-Dashboard
 ## Customer Feedback Analysis
 - Domain: Tourism
 - Tools Used: Power BI
